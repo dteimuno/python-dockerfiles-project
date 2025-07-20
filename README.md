@@ -1,4 +1,8 @@
 # python-dockerfiles-project
+<img width="4238" height="1275" alt="image" src="https://github.com/user-attachments/assets/68e8351c-27e2-4193-8cb9-f3be27e6c61c" />
+
+- This two-part project shows how I explored the Docker python SDK and then built a containerized application using the python flask module that checks for CPU utilization and memory use.
+  
 - To start, we will create a virtual environment:
 ```
 # Step 1: Create a virtual environment in your project folder
