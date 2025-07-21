@@ -1,7 +1,8 @@
-# python-dockerfiles-project
+# Docker Python SDK For Managing Docker Containers and Python For Creating Docker Flask Image Measuring CPU and Memory Utilization
 <img width="4238" height="1275" alt="image" src="https://github.com/user-attachments/assets/68e8351c-27e2-4193-8cb9-f3be27e6c61c" />
 
 - This two-part project shows how I explored the Docker python SDK and then built a containerized application using the python flask module that checks for CPU utilization and memory use.
+## Part 1: Docker Python SDK For Managing Containers and Container Orchestration 
   
 - To start, we will create a virtual environment:
 ```
@@ -24,6 +25,8 @@ pip install docker requests
 ## Creating Service using Docker SDK
 - After creating my nginx docker service I get:
 ![alt text](image-3.png)
+
+## Part 2: Docker Python SDK For Creating Docker Image That Shows CPU and Memory Utilization
 
 ## Creating Local Flask app and testing
 
